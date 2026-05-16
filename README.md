@@ -1,2 +1,2 @@
-# Test-de-dolor-en-CMF
-evaluación de la predicción de dolor en paciente atendidos en CMF
+# Tasa-de-mortalidad-adolescente
+Evaluación de la tasa de mortalidad en adolescentes (10 - 19 años)
